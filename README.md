@@ -29,8 +29,8 @@ Control 5 LEDs on ESP32 using PWM with adjustable frequency and resolution for s
 ---
 
 
----
-
 ## 📃 License
 
 MIT License — free to use, modify, and share.
+
+---
