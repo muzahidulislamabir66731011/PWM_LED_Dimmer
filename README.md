@@ -28,11 +28,6 @@ Control 5 LEDs on ESP32 using PWM with adjustable frequency and resolution for s
 
 ---
 
-## 📁 Files Included
-
-- `PWM_5LEDs.ino`  
-- `.gitignore`  
-- `README.md`
 
 ---
 
